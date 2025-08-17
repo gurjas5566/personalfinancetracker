@@ -1,4 +1,4 @@
-Personal finance tracker - A mobile app that helps students track daily expenses, manage budgets, and visualize spending habits. Built with Flutter and Firebase.
+Personal finance tracker - A mobile app that helps students track daily expenses and visualize spending habits. Built with Flutter and Firebase.
 
 **Features**
 1) User authentication (Firebase Auth)
@@ -10,7 +10,7 @@ Personal finance tracker - A mobile app that helps students track daily expenses
 **Tech Stack**
 Frontend: Flutter
 Backend / Database: Firebase (Authentication + Firestore)
-Analytics: Flutter charting libraries (e.g., charts_flutter / fl_chart)
+Analytics: Flutter charting libraries (fl_chart)
 
 **Screenshots**
 <img width="452" height="970" alt="image" src="https://github.com/user-attachments/assets/fe397dd4-5273-40ee-83ab-a12be35622cf" />
