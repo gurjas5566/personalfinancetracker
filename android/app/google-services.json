@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346572810959",
+    "project_id": "beatwave-b2c22",
+    "storage_bucket": "beatwave-b2c22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346572810959:android:c467adbe02a0cdbc22a5ba",
+        "android_client_info": {
+          "package_name": "com.example.beatwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWIQX0ZTbvTyjU2uwzs3QfIqA7fOuP5sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
