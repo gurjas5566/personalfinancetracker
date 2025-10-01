@@ -12,7 +12,6 @@ Data Visualization: See your spending habits with charts for monthly and categor
 
 Budgeting: Set budgets to control your spending.
 
-Cross-Platform: Works on both Android and iOS.
 
 **Tech Stack**
 
