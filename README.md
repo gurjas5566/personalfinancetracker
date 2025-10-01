@@ -1,16 +1,14 @@
-# beatwave
 
-A new Flutter project.
+**Personal Finance Tracker**
+A mobile app built with Flutter and Firebase to help you track expenses and manage your money.
 
-## Getting Started
+**Features**
+User Authentication: Secure sign-up and login with Firebase Auth.
+Expense Management: Add, edit, and delete expense entries.
+Data Visualization: See your spending habits with charts for monthly and category-based expenses.
+Budgeting: Set budgets to control your spending.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Tech Stack**
+Frontend: Flutter
+Backend: Firebase (Auth & Firestore)
+Analytics: fl_chart
